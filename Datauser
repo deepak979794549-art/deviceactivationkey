@@ -20,13 +20,13 @@
 {
         "device_id": "909b96fda123896f",
         "key": "smart15",
-        "expirydate": "14-03-2025",
+        "expirydate": "14-03-2026",
         "Allowoffline": false
     },
 {
         "device_id": "fc6bb60de9480cf8",
         "key": "smart11",
-        "expirydate": "14-03-2025",
+        "expirydate": "14-03-2026",
         "Allowoffline": false
     }
 ]
