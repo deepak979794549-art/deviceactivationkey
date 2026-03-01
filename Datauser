@@ -41,4 +41,10 @@
         "expirydate": "14-03-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "6ae056b51f5a894c",
+        "key": "Smart6",
+        "expirydate": "14-03-2026",
+        "Allowoffline": false
+    },
 ]
