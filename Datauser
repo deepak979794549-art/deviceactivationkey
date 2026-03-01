@@ -47,4 +47,10 @@
         "expirydate": "14-03-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "4b9a418a0e728f27",
+        "key": "smart10",
+        "expirydate": "14-03-2026",
+        "Allowoffline": false
+    },
 ]
