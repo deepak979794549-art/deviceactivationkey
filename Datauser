@@ -52,11 +52,11 @@
         "key": "smart10",
         "expirydate": "14-03-2026",
         "Allowoffline": false
-    },
+    }
 {
         "device_id": "8a565138c6a635d5",
         "key": "smart9",
         "expirydate": "14-03-2026",
         "Allowoffline": false
-    },
+    
 ]
